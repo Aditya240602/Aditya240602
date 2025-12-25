@@ -55,7 +55,6 @@
 ### 🌐 Let's Connect
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/aditya-kumar-a82474323)
-- [💻 LeetCode](https://leetcode.com/u/Aditya_1947/)
 - [⚔️ Codeforces](https://codeforces.com/profile/adityak2006)
 
 ---
